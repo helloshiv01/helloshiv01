@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@theycallmeshiv's Holopin board](https://holopin.me/theycallmeshiv)](https://holopin.io/@theycallmeshiv
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=helloshiv01.visitor-badge)
