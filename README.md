@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@theycallmeshiv's Holopin board](https://holopin.me/theycallmeshiv)](https://holopin.io/@theycallmeshiv
+[![@theycallmeshiv's Holopin board](https://holopin.me/heycallmeshiv)](https://holopin.io/@heycallmeshiv
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=helloshiv01.visitor-badge)
