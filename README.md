@@ -9,6 +9,6 @@ A Sophomore student at GGSIPU ,Cloud Enthusiast,Web Developer and an Open-Source
 - 😄 Pronouns:Dukh/dard
 - ⚡ Fun fact:Chess is my love language
 -->
-[![@theycallmeshiv's Holopin board](https://holopin.me/heycallmeshiv)] (https://holopin.io/@heycallmeshiv)
+[![@theycallmeshiv's Holopin board](https://holopin.me/heycallmeshiv)](https://holopin.io/@heycallmeshiv)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=helloshiv01.visitor-badge)
 [![Shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloshiv01)](https://github.com/helloshiv01/github-readme-stats)
