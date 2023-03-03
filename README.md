@@ -1,11 +1,11 @@
 ### Hi 👋, I'm Shiv
 A Sophomore student at GGSIPU ,Cloud Enthusiast,Web Developer and an Open-Source Contributor from India
-- 🔭 I’m currently working on everything xd
-- 🌱 I’m currently learning how to teach cats to play chess
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Docker
-- 💬 Ask me about Cloud,Chess,Hiphop
-- 📫 How to reach me:shiv07221202021@msijanakpuri.com
+- 🔭 I’m currently working on compiler/ decompiler bug-detection
+- 🌱 I’m currently studying Analysis of codes produced by C/C++ compilers and decompilers
+- 👯 I’m looking to collaborate on Research Projects
+- 🤔 I’m looking for help with LLVM
+- 💬 Ask me about Cloud,WebDev,Compilers
+- 📫 How to reach me:shivchaudharygccp@gamil.com
 - 😄 Pronouns:Dukh/dard
 - ⚡ Fun fact:Chess is my love language
 
