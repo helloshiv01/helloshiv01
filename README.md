@@ -6,7 +6,7 @@ A Sophomore student at GGSIPU ,Cloud Enthusiast,Web Developer and an Open-Source
 - 🤔 I’m looking for help with LLVM
 - 💬 Ask me about Cloud,WebDev,Compilers
 - 📫 How to reach me:shivchaudharygccp@gamil.com
-- 😄 Pronouns:Dukh/dard
+- 😄 Pronouns:compiler/decompiler
 - ⚡ Fun fact:Chess is my love language
 
 [![@theycallmeshiv's Holopin board](https://holopin.me/heycallmeshiv)](https://holopin.io/@heycallmeshiv)
