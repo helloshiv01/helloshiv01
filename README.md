@@ -1,13 +1,13 @@
 ### Hi 👋, I'm Shiv
-A Sophomore student at GGSIPU ,Cloud Enthusiast,Web Developer and an Open-Source Contributor from India
-- 🔭 I’m currently working on compiler/ decompiler bug-detection
-- 🌱 I’m currently studying Analysis of codes produced by C/C++ compilers and decompilers
-- 👯 I’m looking to collaborate on Research Projects
-- 🤔 I’m looking for help with LLVM
-- 💬 Ask me about Cloud,WebDev,Compilers
-- 📫 How to reach me:shivchaudharygccp@gamil.com
-- 😄 Pronouns:compiler/decompiler
-- ⚡ Fun fact:Chess is my love language
+A Cloud\DevOps Enginner From India
+- 🔭 I’m currently Improving my DSA Skills
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Backend Projects
+- 🤔 I’m looking for SDE jobs
+- 💬 Ask me about K8s, Terraform, Programming
+- 📫 How to reach me:shivchaudharytemp@gmail.com
+- 😄 Pronouns:he/him
+- ⚡ Fun fact: The term "bug" originated in 1947 when a moth caused a malfunction in the Harvard Mark II computer
 
 [![@theycallmeshiv's Holopin board](https://holopin.me/heycallmeshiv)](https://holopin.io/@heycallmeshiv)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloshiv01&show_icons=true&theme=tokyonight)
