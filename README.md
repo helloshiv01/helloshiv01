@@ -57,7 +57,7 @@
 
 ## 📫 Contact Me
 
-- 📧 shivchaudharytemp@gmail.com  
+- 📧 shiv.chaudhary.dev@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/helloshiv01)  
 - 🌐 [Portfolio Website](#) *(coming soon)*  
 
