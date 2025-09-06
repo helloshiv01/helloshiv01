@@ -59,7 +59,7 @@
 
 - 📧 shiv.chaudhary.dev@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/helloshiv01)  
-- 🌐 [Portfolio Website](#) *(coming soon)*  
+- 🌐 [Portfolio Website](https://helloshiv01.github.io)  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=helloshiv01.visitor-badge)
 
